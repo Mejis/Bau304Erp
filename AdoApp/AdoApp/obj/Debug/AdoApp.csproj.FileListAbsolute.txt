@@ -1,0 +1,10 @@
+C:\Users\Wissen\source\repos\AdoApp\AdoApp\bin\Debug\AdoApp.exe.config
+C:\Users\Wissen\source\repos\AdoApp\AdoApp\bin\Debug\AdoApp.exe
+C:\Users\Wissen\source\repos\AdoApp\AdoApp\bin\Debug\AdoApp.pdb
+C:\Users\Wissen\source\repos\AdoApp\AdoApp\obj\Debug\AdoApp.csprojAssemblyReference.cache
+C:\Users\Wissen\source\repos\AdoApp\AdoApp\obj\Debug\AdoApp.Form1.resources
+C:\Users\Wissen\source\repos\AdoApp\AdoApp\obj\Debug\AdoApp.Properties.Resources.resources
+C:\Users\Wissen\source\repos\AdoApp\AdoApp\obj\Debug\AdoApp.csproj.GenerateResource.cache
+C:\Users\Wissen\source\repos\AdoApp\AdoApp\obj\Debug\AdoApp.csproj.CoreCompileInputs.cache
+C:\Users\Wissen\source\repos\AdoApp\AdoApp\obj\Debug\AdoApp.exe
+C:\Users\Wissen\source\repos\AdoApp\AdoApp\obj\Debug\AdoApp.pdb
